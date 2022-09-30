@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saeb</h1>
-<h3 align="center">A Software Engineer that focuses on: - Clean Code Best Practices - Software Design Patterns - Test Derive Design</h3>
+<h3 align="center">A Software Engineer that focuses on: Clean Code Best Practices || Software Design Patterns || Test Derive Design</h3>
 
 - 🔭 I’m currently working on 
 - - [Odoo Migrations Tools](https://github.com/M-Saeb/odoomigrations)
