@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saeb</h1>
 <h3 align="center">A Software Engineer that focuses on: Clean Code Best Practices || Software Design Patterns || Test Driven Design</h3>
 
-- 🔭 I’m currently working on 
-- - [Odoo Migrations Tools](https://github.com/M-Saeb/odoomigrations)
-- - [Kash ORM](https://github.com/M-Saeb/kash_orm)
-- - Other finished projects are in the pinned tab
+### 🔭 I’m currently working on 
+- [Odoo Migrations Tools](https://github.com/M-Saeb/odoomigrations)
+- [Kash ORM](https://github.com/M-Saeb/kash_orm)
+- Other finished projects are in the pinned tab
 
-- 💬 Ask me about 
-- - Python 
-- - Rust 
-- - Clean Code 
-- - Micro Services 
-- - Testing
+### Ask me about 
+- Python 
+- Rust 
+- Clean Code 
+- Micro Services 
+- Testing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
