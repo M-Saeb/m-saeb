@@ -3,7 +3,7 @@
 
 ### 🔭 Highlights of my personal projects
 - Python: [Kash ORM](https://github.com/M-Saeb/kash_orm) & [Route Planner Algorithm](https://github.com/M-Saeb/route-planner-algorithm)
-- Lidar Data Processing: [Segmentor](https://github.com/M-Saeb/segmentor)
+- Lidar Data Processing: [Segmentor](https://github.com/M-Saeb/segmentor) (a university research project)
 - C++ & C Lanuage : [Race Rover](https://github.com/M-Saeb/race-rover)
 - Java : [Cars Charging Station](https://github.com/M-Saeb/cars-charging-station) & [Platooning HTTP Server](https://github.com/M-Saeb/platooning-http-server)
 - Rust: [Odoo Migrations Tools](https://github.com/M-Saeb/odoomigrations)
